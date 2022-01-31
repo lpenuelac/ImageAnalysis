@@ -1,0 +1,28 @@
+{
+    "K": [
+        3.101462118,
+        0.0,
+        2736.0,
+        0.0,
+        4.652193177,
+        1824.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "ccd_height_mm": 15.04666667,
+    "ccd_width_mm": 22.57,
+    "dist_coeffs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "focal_len_mm": 70.0,
+    "height_px": 3648,
+    "lens_model": "EF70-300mm f/4-5.6L IS USM",
+    "make": "Canon",
+    "model": "Canon EOS-1D X Mark III",
+    "width_px": 5472
+}
